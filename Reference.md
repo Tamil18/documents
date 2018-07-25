@@ -6,3 +6,7 @@ sudo apt-get install linux-image-your_version_choice linux-headers-your_version_
 
 eg 
     sudo apt-get install linux-image-extra-4.15.0-13-generic
+
+
+Run Docker Container
+      http://forum.banana-pi.org/t/debian-docker-openwrt-running-on-bpi-r1/449
