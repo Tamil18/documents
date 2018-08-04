@@ -10,3 +10,9 @@ eg
 
 Run Docker Container
       http://forum.banana-pi.org/t/debian-docker-openwrt-running-on-bpi-r1/449
+      
+      
+      
+      code reference 
+      
+            http://www.geekinterview.com/question_details/35718
